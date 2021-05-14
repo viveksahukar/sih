@@ -6,6 +6,6 @@
 - dicom_to_png: how to convert DICOM data to png 
 - train_val_split_iteration: how to split the data into train, validation and test sets 
 - model_build_train_results: how to train the model and get the results
-- vs165_modules: custom Python functions used in Jupyter notebooks
+- vs165_modules: contains custom Python functions used in Jupyter notebooks
 
 **SIH project pdf provides the summary of the entire project and the results.**
